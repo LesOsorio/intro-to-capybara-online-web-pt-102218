@@ -1,4 +1,4 @@
-require 'spec_helper'
+rrequire 'spec_helper'
 
 describe "GET '/' - Greeting Form" do
   # Code from previous example
